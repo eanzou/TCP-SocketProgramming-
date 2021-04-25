@@ -1,7 +1,5 @@
 # TCP-SocketProgramming-
 
-Note: This is a group assignment, there might be similar project on the web posted by group members 
-
 Created using NetBeans Application. 
 
 A one-day delivery service system is created for this project. There is a total of four categories that can be done using this system: parcel delivery, shopping helper, food delivery, house moving service. Client can choose either category and their details will be sent to the server where the server will process, calculate and arrange the particular order. This application is created using TCP-socket programming for two-way communication between server and client on a same network. Multithreading is used on the server to handle multiple clients simultaneously. 
